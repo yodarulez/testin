@@ -82,6 +82,7 @@ plt.legend()
 plt.show()
 
 #fuckah
+#cocksuckah
 
 
 # # Analytical temperature

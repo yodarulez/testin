@@ -80,7 +80,9 @@ plt.ylabel('Temperature')
 plt.title('1D Heat Conduction')
 plt.legend()
 plt.show()
-#oi
+
+#fuckah
+
 
 # # Analytical temperature
 # for n in range(time_steps):
